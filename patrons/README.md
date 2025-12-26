@@ -29,7 +29,6 @@ INF4067_Patterns_Construction/
 │       ├── adapter_sequence_diagram.png
 │       ├── composite_class_diagram.png
 │       └── composite_sequence_diagram.png
-
 ├── src
 │   ├── adapter
 │   ├── composite
